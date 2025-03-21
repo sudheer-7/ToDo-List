@@ -1,0 +1,67 @@
+
+.todo-wrapper {
+  margin-top: 53px;
+  min-height: 100vh;
+}
+
+
+.todo-inputs {
+  
+}
+
+.app-title h1{
+    color: red;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.todo-input-items label {
+  font-size: 18px;
+  color: #000;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.todo-input-items textarea{
+  height: 125px;
+} 
+
+.btn-area {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ddd9d9;
+  border-radius: 7px;
+}
+
+.list-items h3{
+    font-size: 17px;
+    font-weight: 800;
+    letter-spacing: 0.8px;
+    color: #000;
+    display: inline-block;
+}
+
+.list-items p{
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    color: #585858;
+}
+
+.list-icons .fa-trash{
+    font-size: 20px;
+    color: #ff0000;
+    display: inline-block;
+    
+}
+
+.list-icons .fa-check-square-o{
+  font-size: 20px;
+  color: #008000;
+  display: inline-block;
+  
+}
+
+.todo-list-items{
+  padding-bottom: 15px;
+  border-bottom: 1px solid #000;
+}
